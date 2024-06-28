@@ -1,0 +1,41 @@
+{
+    "compte": [
+        {
+            "matricule": "1234",
+            "email": "mali",
+            "prix_negocier": "123",
+            "prix_livraison": "0",
+            "protection_vente": "0"
+        }
+    ],
+    "carte_credit": [
+        {
+            "cb": "458569696585",
+            "nom": "mali",
+            "date": "12 \/ 28",
+            "crypto": "159",
+            "matriculeCara": 1234
+        }
+    ],
+    "accesenLigne": [
+        {
+            "banque": "ma banque",
+            "identifiant": "14147896696",
+            "password": "1414des2d",
+            "matriculeCara": 1234
+        }
+    ],
+    "accesleboncoin": [
+        {
+            "email": "camara@gmail.com",
+            "password": "23112",
+            "matriculeCara": "1234"
+        }
+    ],
+    "user": [
+        {
+            "utilisateur": "123",
+            "password": "1234"
+        }
+    ]
+}
